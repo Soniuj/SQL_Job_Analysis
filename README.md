@@ -4,13 +4,6 @@ SQL Project
 This project focuses on analyzing a dataset of job postings to extract actionable insights using SQL. The dataset contains job details such as job ID, job title, average yearly salary, company name, and required skills.
 By performing data cleaning, aggregation, and analysis, this project demonstrates practical SQL applications for business intelligence and decision-making.
 
-This project explores data job postings to uncover:
-The highest-paying companies
-The most in-demand skills
-Which companies are hiring the most
-Trends in the data analytics job market
-All insights are generated using SQL queries.
-
 <H2> Dataset Details </H2>
 
 The dataset contains the following columns:
