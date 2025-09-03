@@ -8,9 +8,6 @@ By performing data cleaning, aggregation, and analysis, this project demonstrate
 
 The dataset contains the following columns:
 
-Column Name	Description
-job_id	Unique identifier for each job posting
-job_title	Name of the job position
-salary_year_avg	Average yearly salary offered for the job
-company_name	Name of the company offering the job
-skills	Required skill for the job posting
+<img width="738" height="626" alt="image" src="https://github.com/user-attachments/assets/231871ed-afa9-469b-b22d-1e91b0dbbbfc" />
+
+
