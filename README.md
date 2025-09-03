@@ -58,6 +58,10 @@ Insert data into job_data table from CSV file using your preferred SQL client (p
 <img width="428" height="204" alt="image" src="https://github.com/user-attachments/assets/edd964d0-8da9-4820-8a64-0638d8b3c70e" />
 
 <h1>Data Analysis & Findings</h1>
+
+<img width="926" height="720" alt="image" src="https://github.com/user-attachments/assets/e21e9a1f-1de9-4f2a-a097-407a7cf9d6c6" />
+
+
 The following SQL queries were developed to answer specific business questions:
 
 1. Write a SQL query to find out the average salary for each company? <br>
