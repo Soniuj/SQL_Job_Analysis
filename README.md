@@ -61,27 +61,34 @@ The following SQL queries were developed to answer specific business questions:
 
 1. Write a SQL query to find out the average salary for each company? <br>
    
-'''sql <img width="648" height="76" alt="image" src="https://github.com/user-attachments/assets/b76bf062-5223-4d96-bc14-92ba3e13639c" />'''
+![screenshot]
+(<img width="1006" height="111" alt="image" src="https://github.com/user-attachments/assets/be90999d-424c-4279-80de-d1df650afbcc" />)
+
 
 2. Write a SQL query to find out , which company offers the most job postings?<br>
    
-<img width="548" height="119" alt="image" src="https://github.com/user-attachments/assets/cca13056-d10b-4a55-8ca4-4aa842aa062e" />
+<img width="935" height="131" alt="image" src="https://github.com/user-attachments/assets/30e7cb97-564d-4da6-9c2f-abfa2d6e3ccd" />
+
 
 3. Which skill appears most frequently across all jobs?<br>
    
-<img width="580" height="112" alt="image" src="https://github.com/user-attachments/assets/ba7859a4-6415-4c77-9c3f-cfaa52e898cc" />
+<img width="996" height="158" alt="image" src="https://github.com/user-attachments/assets/b7390ae8-d004-467a-9a9d-dc1105266811" />
+
 
 4. Find the top Highest-paying job title?<br>
    
-<img width="571" height="94" alt="image" src="https://github.com/user-attachments/assets/dbb6703b-485b-4fad-b7c6-915933304327" />
+<img width="958" height="123" alt="image" src="https://github.com/user-attachments/assets/be42813d-1d11-4580-9ceb-604fbe3a4d42" />
+
 
 5. Which companies have multiple job postings with the same job_ID?
     
-<img width="650" height="91" alt="image" src="https://github.com/user-attachments/assets/df694ef4-be44-420d-b967-956def0f176f" />
+<img width="941" height="125" alt="image" src="https://github.com/user-attachments/assets/667c8503-f73e-4b7a-93cf-bb0d74fa6acf" />
+
 
 6. Which 2 companies requires the widest range of skills?
     
-<img width="702" height="117" alt="image" src="https://github.com/user-attachments/assets/98ba7a97-2447-4039-accd-e4c35d552718" />
+<img width="860" height="132" alt="image" src="https://github.com/user-attachments/assets/1cc71a23-0d5c-471c-8456-89d1afbebcab" />
+
 
 
 
