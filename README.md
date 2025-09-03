@@ -8,6 +8,7 @@ By performing data cleaning, aggregation, and analysis, this project demonstrate
 With the rapid growth of the data industry, companies are competing to attract top talent with competitive salaries and diverse skill requirements.<br>
 
 The questions I wanted to answer through my SQL queries were:<br>
+
 1.What is the average salary offered by each company? <br>
 2.Which company posts the most job opportunities?<br>
 3.What skills are most in demand across all postings?<br>
