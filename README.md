@@ -52,29 +52,35 @@ Insert data into job_data table from CSV file using your preferred SQL client (p
 
 <img width="402" height="143" alt="image" src="https://github.com/user-attachments/assets/c73fde36-8a27-4ab6-9d64-b33d818fde0b" />
 
-* Data Cleaning
+*Data Cleaning
 
 <img width="428" height="204" alt="image" src="https://github.com/user-attachments/assets/edd964d0-8da9-4820-8a64-0638d8b3c70e" />
 
-* Data Analysis & Findings
+<h1>Data Analysis & Findings</h1>
 The following SQL queries were developed to answer specific business questions:
 
 1. Write a SQL query to find out the average salary for each company?
+   
 <img width="648" height="76" alt="image" src="https://github.com/user-attachments/assets/b76bf062-5223-4d96-bc14-92ba3e13639c" />
 
 2. Write a SQL query to find out , which company offers the most job postings?
+   
 <img width="548" height="119" alt="image" src="https://github.com/user-attachments/assets/cca13056-d10b-4a55-8ca4-4aa842aa062e" />
 
 3. Which skill appears most frequently across all jobs?
+   
 <img width="580" height="112" alt="image" src="https://github.com/user-attachments/assets/ba7859a4-6415-4c77-9c3f-cfaa52e898cc" />
 
 4. Find the top Highest-paying job title?
+   
 <img width="571" height="94" alt="image" src="https://github.com/user-attachments/assets/dbb6703b-485b-4fad-b7c6-915933304327" />
 
 5. Which companies have multiple job postings with the same job_ID?
+    
 <img width="650" height="91" alt="image" src="https://github.com/user-attachments/assets/df694ef4-be44-420d-b967-956def0f176f" />
 
 6. Which 2 companies requires the widest range of skills?
+    
 <img width="702" height="117" alt="image" src="https://github.com/user-attachments/assets/98ba7a97-2447-4039-accd-e4c35d552718" />
 
 
