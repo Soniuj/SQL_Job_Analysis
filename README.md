@@ -18,7 +18,8 @@ The dataset contains the following columns:
 | 99305   | Data Analyst, Marketing           | 232423.0          | Pinterest Job Advertisements | python  |
 | 1021647 | Data Analyst (Hybrid/Remote)      | 217000.0          | Uclahealthcareers            | tableau |
 
-* Project Setup -
+
+<H1> Project Setup </H1> -
 <h3> 1. Create Database </h3>
 CREATE DATABASE job;
 <h3>2. Create Table </h3>
