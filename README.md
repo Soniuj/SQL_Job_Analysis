@@ -48,11 +48,12 @@ The dataset contains the following columns:
 <img width="394" height="226" alt="image" src="https://github.com/user-attachments/assets/1b2157cf-09e1-4f2d-b317-d60a64d7546f" />
 
 <h3>3. Load Data </h3>
+
 Insert data into job_data table from CSV file using your preferred SQL client (pgadmin).
 
 <img width="402" height="143" alt="image" src="https://github.com/user-attachments/assets/c73fde36-8a27-4ab6-9d64-b33d818fde0b" />
 
-*Data Cleaning
+* Data Cleaning
 
 <img width="428" height="204" alt="image" src="https://github.com/user-attachments/assets/edd964d0-8da9-4820-8a64-0638d8b3c70e" />
 
@@ -61,7 +62,7 @@ The following SQL queries were developed to answer specific business questions:
 
 1. Write a SQL query to find out the average salary for each company? <br>
    
-![screenshot]
+
 (<img width="1006" height="111" alt="image" src="https://github.com/user-attachments/assets/be90999d-424c-4279-80de-d1df650afbcc" />)
 
 
