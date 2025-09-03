@@ -5,7 +5,8 @@ This project focuses on analyzing a dataset of job postings to extract actionabl
 By performing data cleaning, aggregation, and analysis, this project demonstrates practical SQL applications for business intelligence and decision-making.
 
 <h2>Background</h2>
-With the rapid growth of the data industry, companies are competing to attract top talent with competitive salaries and diverse skill requirements.
+With the rapid growth of the data industry, companies are competing to attract top talent with competitive salaries and diverse skill requirements.<br>
+
 The questions I wanted to answer through my SQL queries were:
 
 1.What is the average salary offered by each company? <br>
@@ -22,7 +23,7 @@ The questions I wanted to answer through my SQL queries were:
 
 By answering these questions, this project not only helps businesses analyze market competition but also guides job seekers toward better career decisions.
 <h2> Tools I Used </h2>
-For this project, I used the following tools and technologies:
+For this project, I used the following tools and technologies:<br>
 - SQL → The backbone of my analysis for querying and extracting insights<br>
 - PostgreSQL → The chosen RDBMS for creating, storing, and analyzing job data<br>
 - pgAdmin → Interface for managing PostgreSQL databases<br>
