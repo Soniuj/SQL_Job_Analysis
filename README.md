@@ -19,25 +19,21 @@ The dataset contains the following columns:
 | 1021647 | Data Analyst (Hybrid/Remote)      | 217000.0          | Uclahealthcareers            | tableau |
 
 
-<H1> Project Setup </H1> -
-<h3> 1. Create Database </h3>
-CREATE DATABASE job;
+<H1> Project Setup </H1> 
+<h3>1. Create Database </h3>
+
+<img width="285" height="60" alt="image" src="https://github.com/user-attachments/assets/f7e61d92-21fb-47c6-9b6a-dfb7b147b362" />
+
 <h3>2. Create Table </h3>
-CREATE TABLE job_data (
-    job_id INT,
-    job_title VARCHAR(100),
-    salary_year_avg NUMERIC(12,2),
-    company_name VARCHAR(100),
-    skills VARCHAR(50)
-);
+<img width="394" height="226" alt="image" src="https://github.com/user-attachments/assets/1b2157cf-09e1-4f2d-b317-d60a64d7546f" />
+
 <h3>3. Load Data </h3>
 Insert data into job_data table from CSV file using your preferred SQL client (pgadmin).
 
-* Data Cleaning
-Before analysis, ensure there are no missing values:
-SELECT * FROM job_data WHERE company_name IS NULL;
-SELECT * FROM job_data WHERE salary_year_avg IS NULL;
-SELECT * FROM job_data WHERE skills IS NULL;
+<img width="402" height="143" alt="image" src="https://github.com/user-attachments/assets/c73fde36-8a27-4ab6-9d64-b33d818fde0b" />
 
+* Data Cleaning
+
+<img width="428" height="204" alt="image" src="https://github.com/user-attachments/assets/edd964d0-8da9-4820-8a64-0638d8b3c70e" />
 
 
