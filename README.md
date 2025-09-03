@@ -9,19 +9,24 @@ With the rapid growth of the data industry, companies are competing to attract t
 The questions I wanted to answer through my SQL queries were:
 
 1.What is the average salary offered by each company? <br>
+
 2.Which company posts the most job opportunities?<br>
+
 3.What skills are most in demand across all postings?<br>
+
 4.Which job titles offer the highest salaries?<br>
+
 5.Which companies require the widest range of skills?<br>
+
 6.Are there duplicate job postings for the same role?<br>
 
 By answering these questions, this project not only helps businesses analyze market competition but also guides job seekers toward better career decisions.
 <h2> Tools I Used </h2>
 For this project, I used the following tools and technologies:
-- SQL → The backbone of my analysis for querying and extracting insights
-- PostgreSQL → The chosen RDBMS for creating, storing, and analyzing job data
-- pgAdmin → Interface for managing PostgreSQL databases
-- Git & GitHub → For version control and sharing project scripts
+- SQL → The backbone of my analysis for querying and extracting insights<br>
+- PostgreSQL → The chosen RDBMS for creating, storing, and analyzing job data<br>
+- pgAdmin → Interface for managing PostgreSQL databases<br>
+- Git & GitHub → For version control and sharing project scripts<br>
 
 <H2> Dataset Details </H2>
 
