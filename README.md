@@ -63,7 +63,7 @@ The following SQL queries were developed to answer specific business questions:
 1. Write a SQL query to find out the average salary for each company? <br>
    
 
-(<img width="1006" height="111" alt="image" src="https://github.com/user-attachments/assets/be90999d-424c-4279-80de-d1df650afbcc" />)
+<img width="1006" height="111" alt="image" src="https://github.com/user-attachments/assets/be90999d-424c-4279-80de-d1df650afbcc" />
 
 
 2. Write a SQL query to find out , which company offers the most job postings?<br>
