@@ -85,6 +85,7 @@ Insert data into job_data table from CSV file using your preferred SQL client (p
 
 
 4. Find the top Highest-paying job title?<br>
+The top Highest paying Job in my Dataset <br>
    
 <img width="997" height="150" alt="image" src="https://github.com/user-attachments/assets/0a5fd8ac-f4e0-4912-b36d-85e1ce3b2659" /><br>
 
