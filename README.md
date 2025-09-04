@@ -102,6 +102,16 @@ The top Highest paying Job in my Dataset <br>
     
 <img width="989" height="161" alt="image" src="https://github.com/user-attachments/assets/80e3da49-b9ff-4764-970b-8997337cdfb3" /><br>
 
+*Key Learnings
+
+-Data cleaning is an important first step (checking for NULL values).
+
+-GROUP BY with aggregate functions (COUNT, AVG) provides business-critical summaries.
+
+-Ranking and filtering with ORDER BY and LIMIT are essential for spotting trends.
+
+-SQL enables both career insights (skills & salary trends) and business insights (competitive hiring analysis).
+
 
 
 
