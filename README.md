@@ -63,18 +63,18 @@ Insert data into job_data table from CSV file using your preferred SQL client (p
 <img width="926" height="720" alt="image" src="https://github.com/user-attachments/assets/e21e9a1f-1de9-4f2a-a097-407a7cf9d6c6" />
 
 
-The following SQL queries were developed to answer specific business questions:
+<h3>The following SQL queries were developed to answer specific business questions:</h3>
 
 1. Write a SQL query to find out the average salary for each company? <br>
    
 
-<img width="975" height="143" alt="image" src="https://github.com/user-attachments/assets/6a0c0e19-df8c-48ac-88ea-5463922ce9d2" />
+<img width="975" height="143" alt="image" src="https://github.com/user-attachments/assets/6a0c0e19-df8c-48ac-88ea-5463922ce9d2" /><br>
 
 
 
 2. Write a SQL query to find out , which company offers the most job postings?<br>
    
-<img width="935" height="131" alt="image" src="https://github.com/user-attachments/assets/30e7cb97-564d-4da6-9c2f-abfa2d6e3ccd" />
+<img width="951" height="168" alt="image" src="https://github.com/user-attachments/assets/ecd7b049-e9b9-4c80-a37f-48d9e983b060" /><br>
 
 
 3. Which skill appears most frequently across all jobs?<br>
