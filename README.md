@@ -41,6 +41,7 @@ The dataset contains the following columns:
 
 <H1> Project Setup </H1> 
 <h3>1. Create Database </h3>
+
 Database Creation: The project starts by creating a database named job <br>
 
 <img width="285" height="60" alt="image" src="https://github.com/user-attachments/assets/f7e61d92-21fb-47c6-9b6a-dfb7b147b362" />
