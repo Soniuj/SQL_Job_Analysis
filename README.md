@@ -119,15 +119,11 @@ The top Highest paying Job in my Dataset <br>
 
 <h4>Top-Paying Job Titles:-</h4>
 
-* The highest-paying roles are Associate Director – Data Insights ($255,829), Data Analyst, Marketing ($232,423), and Principal Data Analyst – Remote ($205,000).
-
- Director and senior-level analyst positions consistently offer the most high salaries.
+* The highest-paying roles are Associate Director – Data Insights ($255,829), Data Analyst, Marketing ($232,423), and Principal Data Analyst – Remote ($205,000). Director and senior-level analyst positions consistently offer the most high salaries.
 
 * Most In-Demand Skills
 
-SQL (8 mentions) and Python (7 mentions) are the most frequently required skills, followed closely by Tableau (6 mentions).
-
-This reinforces SQL and Python as core skills for data professionals.
+   SQL (8 mentions) and Python (7 mentions) are the most frequently required skills, followed closely by Tableau (6 mentions). This reinforces SQL and Python as core skills for data professionals.
 
 * Top Hiring Companies
 
