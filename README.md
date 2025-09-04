@@ -85,17 +85,20 @@ Insert data into job_data table from CSV file using your preferred SQL client (p
 
 4. Find the top Highest-paying job title?<br>
    
-<img width="958" height="123" alt="image" src="https://github.com/user-attachments/assets/be42813d-1d11-4580-9ceb-604fbe3a4d42" />
+<img width="997" height="150" alt="image" src="https://github.com/user-attachments/assets/0a5fd8ac-f4e0-4912-b36d-85e1ce3b2659" /><br>
 
 
-5. Which companies have multiple job postings with the same job_ID?
+
+5. Which companies have multiple job postings with the same job_ID?<br>
     
-<img width="941" height="125" alt="image" src="https://github.com/user-attachments/assets/667c8503-f73e-4b7a-93cf-bb0d74fa6acf" />
+<img width="912" height="170" alt="image" src="https://github.com/user-attachments/assets/25bfd016-8bcd-4c61-979e-42b5ed8e9e4d" /><br>
 
 
-6. Which 2 companies requires the widest range of skills?
+
+6. Which 2 companies requires the widest range of skills?<br>
     
-<img width="860" height="132" alt="image" src="https://github.com/user-attachments/assets/1cc71a23-0d5c-471c-8456-89d1afbebcab" />
+<img width="989" height="161" alt="image" src="https://github.com/user-attachments/assets/80e3da49-b9ff-4764-970b-8997337cdfb3" /><br>
+
 
 
 
