@@ -79,7 +79,8 @@ Insert data into job_data table from CSV file using your preferred SQL client (p
 
 3. Which skill appears most frequently across all jobs?<br>
    
-<img width="996" height="158" alt="image" src="https://github.com/user-attachments/assets/b7390ae8-d004-467a-9a9d-dc1105266811" />
+<img width="883" height="193" alt="image" src="https://github.com/user-attachments/assets/e4e1aca3-dc98-4e1e-a555-c74ce1f31496" /><br>
+
 
 
 4. Find the top Highest-paying job title?<br>
