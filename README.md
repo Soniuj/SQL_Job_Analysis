@@ -112,6 +112,35 @@ The top Highest paying Job in my Dataset <br>
 
 ~ SQL enables both career insights (skills & salary trends) and business insights (competitive hiring analysis).
 
+# Conclusions
+<h1>Insights</h1>
+
+<h3>From the analysis of the job postings dataset, several clear insights emerged:</h3>
+
+<h4>Top-Paying Job Titles:-</h4>
+
+* The highest-paying roles are Associate Director – Data Insights ($255,829), Data Analyst, Marketing ($232,423), and Principal Data Analyst – Remote ($205,000).
+
+ Director and senior-level analyst positions consistently offer the most high salaries.
+
+* Most In-Demand Skills
+
+SQL (8 mentions) and Python (7 mentions) are the most frequently required skills, followed closely by Tableau (6 mentions).
+
+This reinforces SQL and Python as core skills for data professionals.
+
+* Top Hiring Companies
+
+The most active companies in the dataset are SmartAsset (18 job postings), Inclusively (14 postings), and AT&T (13 postings).
+
+These firms are leading in data-driven hiring, reflecting strong demand for analysts.
+
+* Companies Requiring the Widest Skill Range
+
+Inclusively (14 distinct skills) and AT&T (13 distinct skills) demand the broadest set of technical skills, including SQL, cloud platforms (AWS, Azure), and BI tools.
+
+This suggests they seek highly versatile analysts capable of handling end-to-end data tasks.
+
 
 
 
