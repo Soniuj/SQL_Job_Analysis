@@ -54,9 +54,10 @@ Insert data into job_data table from CSV file using your preferred SQL client (p
 
 <img width="402" height="143" alt="image" src="https://github.com/user-attachments/assets/c73fde36-8a27-4ab6-9d64-b33d818fde0b" />
 
-* Data Cleaning
+* Data Cleaning <br>
 
-<img width="428" height="204" alt="image" src="https://github.com/user-attachments/assets/edd964d0-8da9-4820-8a64-0638d8b3c70e" />
+<img width="861" height="236" alt="image" src="https://github.com/user-attachments/assets/00ad30e2-218b-46ff-aae5-3e8b43cf8d53" /><br>
+
 
 <h1>Data Analysis & Findings</h1>
 
