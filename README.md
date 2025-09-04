@@ -102,7 +102,7 @@ The top Highest paying Job in my Dataset <br>
     
 <img width="989" height="161" alt="image" src="https://github.com/user-attachments/assets/80e3da49-b9ff-4764-970b-8997337cdfb3" /><br>
 
-* Key Learnings
+# Key Learnings
 
 ~ Data cleaning is an important first step (checking for NULL values). 
 
