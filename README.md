@@ -133,6 +133,11 @@ The top Highest paying Job in my Dataset <br>
 
    * Inclusively (14 distinct skills) and AT&T (13 distinct skills) demand the broadest set of technical skills, including SQL, cloud platforms (AWS, Azure), and BI tools. This suggests they seek highly versatile analysts capable of handling end-to-end data tasks.
 
+# Closing Thoughts
+
+This project strengthened my SQL skills and provided valuable insights into the data job market. It reinforced the importance of learning high-demand skills like SQL and Python while staying adaptable to new tools and trends in data analytics. I look forward to continuing to learn and grow my SQL expertise.
+
+<h3>Thankyou for your Support</h3>
 
 
 
